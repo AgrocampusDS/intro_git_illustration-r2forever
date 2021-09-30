@@ -1,6 +1,10 @@
 ---
 title: "Etude sur les manchots"
+<<<<<<< HEAD
+author: "MP Etienne et Rémi Patin"
+=======
 author: "Rémi Patin & Clément Lebot & toto"
+>>>>>>> 7f588b306251e3305b35579a10dcb7a2879f279e
 date: "9/2/2021"
 output: html_document
 ---
