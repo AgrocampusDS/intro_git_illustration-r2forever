@@ -1,7 +1,7 @@
 ---
 title: "Etude sur les manchots"
-author: "Rémi Patin & Clément Lebot & toto"
-date: "19/2/2021"
+author: "Rémi Patin & Clément Lebot & toto & JLM"
+date: "30/09/2021"
 output: html_document
 ---
 
